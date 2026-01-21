@@ -1,4 +1,4 @@
-![vdb logo](https://avatars.githubusercontent.com/u/225824649?s=200&v=4)
+![vdb logo](https://avatars.githubusercontent.com/u/225824649?s=85&v=4)
 
 Agence web orientée création. Nous concevons des expériences digitales sur mesure pour des marques ambitieuses, en alliant design éditorial et développement front-end de qualité.
 
