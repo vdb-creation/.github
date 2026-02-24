@@ -5,7 +5,7 @@
   <br />
   <br />
 
-  <h1>Agence web orientée création</h1>
+  <h1>Agence web</h1>
   
   <p align="center" style="font-size: 1.2rem;">
     Nous concevons des expériences digitales sur mesure pour des marques ambitieuses,<br>
@@ -14,7 +14,7 @@
 
   <br />
 
-  <a href="https://vdbcreation.eu"><strong>🌐 Visiter notre site</strong></a>
+  <a href="https://vdbcreation.eu"><strong>Visiter notre site</strong></a>
 
   <br />
   <br />
@@ -48,7 +48,7 @@
   
   <p>Une idée ? Un projet ?</p>
   
-  <a href="mailto:contact@vdbcreation.eu">
+  <a href="mailto:valentin@vdbcreation.eu">
     <img src="https://img.shields.io/badge/Email-contact%40vdbcreation.eu-black?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
 
