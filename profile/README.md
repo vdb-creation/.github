@@ -1,12 +1,58 @@
-![vdb logo](https://avatars.githubusercontent.com/u/225824649?s=85&v=4)
+<div align="center">
 
-Agence web orientée création. Nous concevons des expériences digitales sur mesure pour des marques ambitieuses, en alliant design éditorial et développement front-end de qualité.
+  <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/Banniere_github.png" alt="VDB Création Banner" width="100%" />
 
-### Stacks
-- ![Astro](https://img.shields.io/badge/Astro-00C7B7?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  <br />
+  <br />
 
+  <h1>Agence web orientée création</h1>
+  
+  <p align="center" style="font-size: 1.2rem;">
+    Nous concevons des expériences digitales sur mesure pour des marques ambitieuses,<br>
+    en alliant <strong>design éditorial</strong> et <strong>développement front-end</strong> de qualité.
+  </p>
 
-### Contact
-- contact@vdbcreation.eu
+  <br />
+
+  <a href="https://vdbcreation.eu"><strong>🌐 Visiter notre site</strong></a>
+
+  <br />
+  <br />
+  <br />
+
+  <h3>— Stack Technique —</h3>
+  
+  <p>
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Typescript.svg" alt="TypeScript" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Javascript.svg" alt="JavaScript" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Nodejs.svg" alt="Nodejs" height="40" />
+  </p>
+
+  <p>
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Astro.svg" alt="Astro" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--React.svg" alt="React" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Tina.svg" alt="TinaCMS" height="40" />
+  </p>
+
+  <p>
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Tailwind.svg" alt="Tailwind" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Scss.svg" alt="SCSS" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--CSS.svg" alt="CSS" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Cloudflare.svg" alt="Cloudflare" height="40" />
+  </p>
+
+  <br />
+  <br />
+
+  <h3>— Contact —</h3>
+  
+  <p>Une idée ? Un projet ?</p>
+  
+  <a href="mailto:contact@vdbcreation.eu">
+    <img src="https://img.shields.io/badge/Email-contact%40vdbcreation.eu-black?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+
+  <br />
+  <br />
+
+</div>
