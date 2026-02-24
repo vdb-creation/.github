@@ -49,7 +49,7 @@
   <p>Une idée ? Un projet ?</p>
   
   <a href="mailto:valentin@vdbcreation.eu">
-    <img src="https://img.shields.io/badge/Email-contact%40vdbcreation.eu-black?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--email.svg" alt="Email" />
   </a>
 
   <br />
