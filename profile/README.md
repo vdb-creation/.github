@@ -23,22 +23,22 @@
   <h3>— Stack Technique —</h3>
   
   <p>
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Typescript.svg" alt="TypeScript" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Javascript.svg" alt="JavaScript" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Nodejs.svg" alt="Nodejs" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Typescript.svg" alt="TypeScript" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Javascript.svg" alt="JavaScript" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Nodejs.svg" alt="Nodejs" height="55" />
   </p>
 
   <p>
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Astro.svg" alt="Astro" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--React.svg" alt="React" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Tina.svg" alt="TinaCMS" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Astro.svg" alt="Astro" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--React.svg" alt="React" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Tina.svg" alt="TinaCMS" height="55" />
   </p>
 
   <p>
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Tailwind.svg" alt="Tailwind" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Scss.svg" alt="SCSS" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--CSS.svg" alt="CSS" height="40" />
-    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Cloudflare.svg" alt="Cloudflare" height="40" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Tailwind.svg" alt="Tailwind" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Scss.svg" alt="SCSS" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--CSS.svg" alt="CSS" height="55" />
+    <img src="https://assets.vdbcreation.eu/vdbcreation/assets/github/TagGithub/tag_github--Cloudflare.svg" alt="Cloudflare" height="55" />
   </p>
 
   <br />
